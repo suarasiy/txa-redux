@@ -1,10 +1,5 @@
 import ReactDOM from 'react-dom';
-
-const App = () => {
-  return (
-    <h1>in development :D</h1>
-  )
-};
+import App from './components/App';
 
 ReactDOM.render(
   <App />,
